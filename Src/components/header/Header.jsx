@@ -1,7 +1,7 @@
 import styles from "./Header.module.css"
 
 import Title from "../title/Title"
-import Subtitle from "../subTitle/Subtitle"
+import Subtitle from "../subtitle/Subtitle"
 import Icon from "../icon/Icon"
 
 function Header () {
